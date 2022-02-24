@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perrot against the pope, or, A true copy of John Perrot the Quakers letter and challenge to the pope with His Holiness's answer thereto : and an account of the Quakers proceedings and entertainment at Rome.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54458</idno>
+            <idno type="STC">Wing P1648</idno>
+            <idno type="STC">ESTC R40068</idno>
+            <idno type="EEBO-CITATION">18678983</idno>
+            <idno type="OCLC">ocm 18678983</idno>
+            <idno type="VID">108162</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1659:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Perrot against the pope, or, A true copy of John Perrot the Quakers letter and challenge to the pope with His Holiness's answer thereto : and an account of the Quakers proceedings and entertainment at Rome.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>[6], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed the 9th. day of the 4th. moneth called June,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108162:1"/>
+            <pb facs="tcp:108162:1" rendition="simple:additions"/>
+            <p>PERROT AGAINST THE POPE: OR A true Copy of <hi>John Perrot</hi> the <hi>Quakers</hi> Let<g ref="char:EOLhyphen"/>ter and Challenge to the <hi>Pope.</hi>
+            </p>
+            <p>With his <hi>Holineſs's Anſwer</hi> thereto.</p>
+            <p>And an Account of the <hi>Quakers</hi> Proceedings and entertainment at <hi>Rome.</hi>
+            </p>
+            <q>
+               <bibl>Jer. 46.3.</bibl>
+               <p>Order ye the Buckler and the Shield, and draw near to Battel.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed the 9th. day of the 4th. moneth called <hi>June,</hi> 1662.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:108162:2"/>
+            <pb facs="tcp:108162:2" rendition="simple:additions"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome Sober perſons will not ea<g ref="char:EOLhyphen"/>ſily believe (though it be moſt true) that the phanatick Spirit of Enthuſiaſm had in the year <hi>1658.</hi> ſo far poſſeſſed <hi>John Perrot,</hi> an <hi>Engliſh Quaker,</hi> that, whilſt (to uſe his own phraſe) <hi>he ſtood in the gap for Rome,</hi> he muſt needs go thither in perſon to convert the <hi>Pope;</hi> And being arriv'd at the wiſhed end of his long journey, he made great meanes to have audience of his <hi>Ho<g ref="char:EOLhyphen"/>lineſſe:</hi> But it being pleaſantly objected, that a diſputation with the Pope would prove ineffectual, in
+<pb facs="tcp:108162:3"/>
+regard the one underſtood no Engliſh, and the other nothing but Engliſh; <hi>Perrot</hi> anſwered, <hi>If the Pope have the Spirit of God in him, he will under<g ref="char:EOLhyphen"/>ſtand what I ſhall deliver.</hi>
+            </p>
+            <p>Thereupon the Pope being mov'd, was content to admit him to his preſence;<note place="margin">Ecclus. 4.7.</note> 
+               <hi>John</hi> (forgetting that Scripture, which bids him <hi>bow his head to a great man</hi>) came ſtifly in with his Hat on, and began preſently, without other ceremo<g ref="char:EOLhyphen"/>ny, in this blu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Engliſh; <hi>Pope of Rome,</hi> &amp;c. O<g ref="char:EOLhyphen"/>thers ſay he condeſcended ſo far againſt his Principles as to call him <hi>Mr. Pope,</hi> and went on in his ſpiritual canting, of which the <hi>Pope</hi> underſtood not a word, but by interpretation; at length, when he had ſeen the ſad effects of this <hi>Quakeriſm,</hi> his Holineſs ſaid, <hi>coſtui è veramente Fanatico,</hi> this man is a Fanatick indeed; and gave order he ſhould be ſent to the <hi>Pazzarella,</hi> (which is of the ſame na<g ref="char:EOLhyphen"/>ture with our <hi>Bedlam</hi>) but with directions, that if the Fanatick would peaceably depart thence to his own Country, he ſhould have the permiſſion.</p>
+            <p>The <hi>Quaker</hi> would by no perſwaſions leave <hi>Rome,</hi> till he had effected the great work for which <hi>the Lord had ſent him,</hi> that is, converted the <hi>Pope;</hi> ſo he was detained in the <hi>Pazzarella</hi> for a long time, and from thence found meanes to ſend a Letter to the <hi>Pope,</hi> with this ſuperſcription,
+<pb facs="tcp:108162:3"/>
+               <hi>John Perrot, the Lamb of Chriſt, to Fabius Ghiſius; vulgarly called Pope of Rome;</hi> the effect of it you may imagin.</p>
+            <p>
+               <hi>Perrot</hi> had a <hi>Doxy</hi> with him of his own Tribe, called <hi>Jane Stoakes,</hi> who being asked by an Engliſh Gentleman there, in what part of <hi>England</hi> ſhee was born? anſwered, at <hi>Oxford, near the neſt of unclean birds, called Johns.</hi>
+            </p>
+            <p>Another of his Companions (for they were four in all, who went in this miſſion or pilgrimage to <hi>Rome</hi>) voluntarily faſted himſelf to death in the <hi>Pazzarella,</hi> as <hi>James Parnell,</hi> a bro<g ref="char:EOLhyphen"/>ther, had done before him in <hi>Colcheſter Goale, May 1656.</hi>
+            </p>
+            <p>After above two yeares ſpent by this zea<g ref="char:EOLhyphen"/>lous <hi>Quaker</hi> in bondage at <hi>Rome,</hi> at laſt his heat began to cool, ſo that, upon his promiſe to return peaceably to his own Country, he was re<g ref="char:EOLhyphen"/>leaſed. And being arriv'd at <hi>London,</hi> in the year <hi>1661.</hi> the Spirit again moov'd him to have another bout with <hi>Mr. Pope,</hi> and to that purpoſe, he finds meanes to convey the follow<g ref="char:EOLhyphen"/>ing <hi>Propoſitions,</hi> by way of Challenge, in a Letter to <hi>Rome;</hi> which, with the <hi>Popes</hi> An<g ref="char:EOLhyphen"/>ſwer, (faithfully tranſlated out of the Original
+<pb facs="tcp:108162:4"/>
+Latin) I here preſent the Reader <hi>verbatim,</hi> as they came to my hands, from a <hi>Virtuoſo</hi> at <hi>Rome,</hi> and leave it to Diſcretion, to judge, whe<g ref="char:EOLhyphen"/>ther is like to carry the victory, <hi>Fabius Ghiſius,</hi> or <hi>John Perrot; the Pope of Rome, or Qua<g ref="char:EOLhyphen"/>ker of London.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108162:4"/>
+            <head>PROPOSITIONS TO THE POPE, FOR THE Proving his Power of Remitting Sins, and other Do<g ref="char:EOLunhyphen"/>ctrines of his Church, as Principles deſtroying Souls in Darkneſs, and undeter<g ref="char:EOLhyphen"/>minable Death.</head>
+            <head type="sub">To <hi>Fabius Guiſius,</hi> Pope, at his Pallace in <hi>Monte Cavallo</hi> in <hi>Roma.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">P</seg>OPE of <hi>ROME</hi> It is not <hi>unknown,</hi> that for the ſpace of <hi>three years,</hi> wanting leſſe than <hi>ſeven dayes,</hi> I was held in moſt <hi>cruel Bonds</hi> under <hi>thy Hands;</hi> where by the <hi>mighty power</hi> of God I was <hi>borne,</hi> and car<g ref="char:EOLhyphen"/>ried through ignominious and oppro<g ref="char:EOLhyphen"/>brious <hi>ſcoffs</hi> and <hi>mocks, threats</hi> of Death <hi>divers wayes,</hi> and of <hi>perpetual Slavery</hi> of<g ref="char:EOLhyphen"/>tentimes: Beſides other times moſt <hi>cruelly</hi> and <hi>inhumanely <hi>tortured, bruiſed,</hi>
+               </hi> and <hi>exceedingly <hi>wounded</hi>
+               </hi> in my <hi>fleſhly Body;</hi> for none other <hi>cauſe</hi> (the God of Righteouſneſſe knoweth, and that of God in all mens Conſciences in that City of <hi>Rome</hi> can bear me witneſſe, which ſaw my Converſation from the firſt to the laſt of my impriſonment) but honeſtly, ſimply, and purely,
+<pb n="2" facs="tcp:108162:5"/>
+for <hi>Righteouſneſs ſake,</hi> viz. becauſe I Exhorted <hi>All men</hi> to <hi>Re<g ref="char:EOLhyphen"/>pentance;</hi> and warned them in Seaſon, to take <hi>heed</hi> to their <hi>wayes,</hi> leſt a <hi>ſore Evil</hi> ſhould come upon them; I ſay, for <hi>this love</hi> of my <hi>tender Soul,</hi> towards Thine, and their <hi>Souls</hi> and <hi>Bo<g ref="char:EOLhyphen"/>dies,</hi> was I ſo inhumanely <hi>requited</hi> both by <hi>Thee</hi> and <hi>Them,</hi> which the Righteous LORD of <hi>Heaven</hi> knoweth, and <hi>Thou</hi> in thy Conſcience knoweſt it; as many others of the <hi>Heads, Ru<g ref="char:EOLhyphen"/>lers, Prieſts, Doctors, Fryars, Jeſuits,</hi> and <hi>People</hi> of <hi>Rome</hi> do know the ſame thing; and after many <hi>Wrongs</hi> which I bare, and <hi>bruiſes</hi> and <hi>wounds</hi> that I ſuffered, ſhut up in a <hi>Room,</hi> where there was ſcarce a <hi>Breathing place,</hi> chained in <hi>Irons,</hi> mocked of the <hi>Wicked,</hi> becauſe my <hi>natural eyes</hi> could ſee neither <hi>viſible Sun</hi> nor <hi>Moon;</hi> where moreover, I was <hi>tempted</hi> with the <hi>World,</hi> and <hi>proffered</hi> all the <hi>Pleaſures</hi> which ever my <hi>Heart</hi> could <hi>deſire,</hi> ſo that I would <hi>be,</hi> but as thy <hi>Prieſts were,</hi> which dayly <hi>tempted me</hi> unto <hi>Idolatry.</hi> (I ſay) all which I <hi>ſuffered,</hi> until at length my <hi>Innocent patient Soul</hi> had worn out, and overcome, all the <hi>Cruelty</hi> towards me, which was <hi>Exerciſed</hi> upon me, by the <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonable Hands</hi> of <hi>Sinners:</hi> and that the Lord aroſe to plead my Cauſe for me, and ſtirred up <hi>ſuch,</hi> as I neither <hi>deſired,</hi> nay, nor in the leaſt outwardly <hi>knew,</hi> to appear in my <hi>Behalf;</hi> and made ſome of his <hi>Servants</hi> to offer up their <hi>lives</hi> for my <hi>Redemption,</hi> which were known to be freely <hi>ſacrificed</hi> in <hi>Rome;</hi> for whoſe <hi>Live</hi> unto <hi>me,</hi> they were alſo <hi>Impriſoned</hi> by Thy <hi>power,</hi> who, below the Law of <hi>Heathens,</hi> ſtood not <hi>openly</hi> to ſhew us <hi>any cauſe</hi> of our <hi>Sufferings.</hi>
+            </p>
+            <p>Yet, after all <hi>this,</hi> (though I am a man wholly given unto <hi>my God,</hi> having given <hi>all things</hi> elſe unto <hi>Him</hi> who made them) if it were the will of my Father, commanding me unto <hi>Silence,</hi> and to ſit down as him that is <hi>Dumb,</hi> and never to <hi>open my mouth,</hi> nor lead on my Pen on Paper, to <hi>Remonſtrate</hi> the things that are <hi>paſt,</hi> concerning my <hi>Suffering dayes,</hi> verily, I ſhould <hi>Obey,</hi> and ſay <hi>Good is the Will of my God, who teacheth me Sub<g ref="char:EOLhyphen"/>jection.</hi> But being <hi>commanded</hi> unto this <hi>thing,</hi> I can of a pure <hi>heart,</hi> in the ſight of my <hi>Almighty God,</hi> ſay, that I write not to take a <hi>Revenge</hi> of my Cauſe, having committed <hi>Vengeance</hi> unto him that <hi>repayeth</hi> in <hi>Righteouſneſſe.</hi> (Whom, I pray for <hi>mercy,</hi> to be manifeſted unto you <hi>All,</hi> having a <hi>long time</hi> ſtood in the <hi>Gap</hi> for <hi>Rome;</hi> with many <hi>Tears,</hi> offering my <hi>Life</hi> for the <hi>In<g ref="char:EOLhyphen"/>habitants</hi> of that <hi>City,</hi> which the <hi>God of Heaven</hi> knoweth, and
+<pb n="3" facs="tcp:108162:5"/>
+that I can at <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <hi>ſerve</hi> them all in the <hi>way</hi> wherein my <hi>Father</hi> leadeth me But O <hi>Pope</hi> for thy <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouls ſake,</hi> and the <hi>peoples Souls ſakes</hi> which have a <hi>dependance</hi> upon thy <hi>Power,</hi> I am contrained to <hi>write</hi> this time unto <hi>thee</hi> in this <hi>manner,</hi> ſhewing that in the <hi>Name</hi> and <hi>holy Fear</hi> of the <hi>Lord God of Hea<g ref="char:EOLhyphen"/>ven</hi> and <hi>Earth,</hi> who hath <hi>led</hi> me in my <hi>Pilgrimage,</hi> by his <hi>Right Hand of Power,</hi> and <hi>pleaded</hi> my <hi>Cauſe</hi> with my <hi>Enemies,</hi> by reigning down <hi>fire</hi> from <hi>Heaven</hi> upon <hi>them,</hi> and by diverſe <hi>Judgements</hi> in <hi>Rome,</hi> whileſt there the people <hi>oppreſſed my Inno<g ref="char:EOLhyphen"/>cent Soul</hi> with <hi>Cruelty;</hi> which may as is needful hereafter) be more at large <hi>ſpoken of.</hi> I <hi>proptmd</hi> it unto <hi>Thee,</hi> (as being the HEAD of that people, which are called the <hi>Roman Catho<g ref="char:EOLhyphen"/>lick Church</hi>) to <hi>Constitute, Order,</hi> and <hi>appoint <hi>one hundred</hi>
+               </hi> of thy <hi>Chiefeſt</hi> and <hi>Propoundeſt <hi>Ieſuits</hi>
+               </hi> or <hi>Doctors</hi> of <hi>Divinity,</hi> (ſo called by thee) to give me a <hi>fair, open</hi> and <hi>publick Meet<g ref="char:EOLhyphen"/>ing,</hi> in <hi>England, Germany, France, Italy</hi> or <hi>Turkey, (viz.) in the moſt expedient place, for the advantage of the Glory of God</hi> (who Created the whole earth for that end <hi>as a way may be made to attain a Licence from the Powers of the ſaid Nations, to effect the ſaid Meeting.</hi> I ſay, chuſe thee <hi>thy hundred</hi> or <hi>more perſons</hi> for <hi>thy defence,</hi> and in the Name of the Lord God and in his <hi>Councel,</hi> I ſhall <hi>ſtand</hi> in the face of a <hi>Nation,</hi> or <hi>many Nations,</hi> to prove to that of God in <hi>every Conſcience</hi> upon the face of the <hi>Earth, <hi>That thy pretended power of Remiſsion of Sins, is of the old Serpent the Devil, drowning Souls in the Lake of Hell and Perdition.</hi>
+               </hi>
+            </p>
+            <list>
+               <item>1ſt. <hi>By the time of the comming in of Popes.</hi>
+               </item>
+               <item>2dly. <hi>By the manner of chuſing Popes.</hi>
+               </item>
+               <item>3dly. <hi>By the matter of the precepts of Popes. <hi>viz.</hi>
+                  </hi>
+               </item>
+            </list>
+            <p>Firſt, <hi>That the Doctrine of teaching people to pray unto the <hi>Virgin Mary</hi> is damnable, drowning the Soul in the pit Hell.</hi>
+            </p>
+            <p>Secondly, <hi>That the Doctrine of teaching of the people to call on more <hi>Advocates, Mediators,</hi>
+               </hi> and <hi>Interceſſors, <hi>Than looking upon the One</hi>
+               </hi> MEDIATOR JESUS, <hi>is of the pit of <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> blinding and binding ſouls in the blackneſs of the night of death.</hi>
+            </p>
+            <p>Thirdly, <hi>That the Invention of</hi> Pictures and Images <hi>in
+<pb n="4" facs="tcp:108162:6"/>
+your Worſhips, is of the deſtroying Spirit, of the power of Darkneſs, chaining Souls in the Pit.</hi>
+            </p>
+            <p>Fourthly, <hi>That your manner of Conſecrating</hi> Waffers, Wine, and Water, <hi>praying</hi> upon Beads, <hi>worſhipping</hi> in Idols Temples, <hi>your divers</hi> Fryars Garments, and Titled Orders, <hi>your obſervations of</hi> Dayes, and Meats, <hi>your</hi> Penance and Pro<g ref="char:EOLhyphen"/>ceſſions, <hi>are not of God; but contrariwiſe of the Spirit of Deluſion, Hereſie, Deceit, and Iniquity, which drowneth Souls in perdition.</hi>
+            </p>
+            <p>For which <hi>Cauſe,</hi> if thou loveſt the <hi>Salvation</hi> of <hi>Souls,</hi> more than <hi>their Damnation,</hi> through <hi>a Covetous end</hi> of an <hi>Earthly Kingdom</hi> in thy Heart, then I am ſure Thou wilt not <hi>ſcruple,</hi> to ſend <hi>ſuch perſons</hi> as Thou mayeſt appoint, to <hi>Meet me</hi> accor<g ref="char:EOLhyphen"/>ding to this <hi>Propoſal;</hi> which elſe, <hi>All Nations</hi> will ſee thy <hi>Cloak</hi> to be <hi>Rent a ſunder,</hi> and no longer <hi>able</hi> to <hi>cover</hi> and <hi>hide</hi> the <hi>Abominations</hi> which are <hi>concealed</hi> under <hi>Thy Skirts:</hi> for ex<g ref="char:EOLhyphen"/>cept Thou ſendeſt me an <hi>Anſwer,</hi> or cauſeſt an Anſwer to be ſent unto me, in the ſpace of <hi>Four Months</hi> after the <hi>Date</hi> of <hi>this,</hi> then muſt I <hi>Manifeſt it</hi> unto <hi>All Nations,</hi> as far as <hi>it</hi> can be conveniently <hi>Spread,</hi> even unto the <hi>ends</hi> of the <hi>Earth;</hi> which, until <hi>then,</hi> I may <hi>not do,</hi> that Thou mayeſt <hi>Know,</hi> that my <hi>End,</hi> is not to <hi>Infamize Thee,</hi> and Thy <hi>Authority,</hi> but Righ<g ref="char:EOLhyphen"/>teouſly to <hi>Glorifie</hi> the Lord God Almighty, my Holy Father of Life.</p>
+            <closer>
+               <dateline>
+                  <hi>LONDON,</hi> 
+                  <date>the 20th. day of the 7th Month called <hi>September</hi> 1661.</date>
+               </dateline>
+               <signed>
+                  <hi>Who am called the Engliſh</hi> Qua<g ref="char:EOLhyphen"/>ker, <hi>that was Priſoner in</hi> Bed<g ref="char:EOLhyphen"/>lam <hi>of</hi> Rome, <hi>and alſo out<g ref="char:EOLhyphen"/>wardly named</hi> JOHN PERROT.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:108162:6"/>
+            <head>
+               <hi>FABIUS GHISIUS</hi> POPE of ROME TO <hi>JOHN PERROT</hi> QUAKER of LONDON.</head>
+            <opener>
+               <salute>John Quaker!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hy <hi>Letter</hi> and <hi>Propoſitions</hi> (bearing date the 20th. day of the 7th. month) came not to my hands till the 10th. day of this, therefore I hope thou wilt not proſcribe me, for elapſing the time limited in thy Letter, which was not through my fault; And becauſe I know thou haſt a per<g ref="char:EOLhyphen"/>verſe unbelieving Spirit in thee, I forbear in uſual form to ſalute thee with <hi>Apoſtolical Benediction,</hi> but without fur<g ref="char:EOLhyphen"/>ther Ceremony apply my ſelf to anſwer thy Letter.</p>
+            <p n="1">1. 'Tis true thou waſt detained in the <hi>Pazzarella</hi> here, a place moſt fit for thee, and thy mad Brethren, where had both thou and they been timely put, as you might have been in Juſtice, and ſhould have been in Prudence, all the late miſeries and abominable wickedneſſes of <hi>England,</hi> had in all likelyhood been prevented; Nor was it without evi<g ref="char:EOLhyphen"/>dent reaſon, That my Officers ſhut thee up in <hi>Bedlam;</hi> Thou cam'ſt out of a Rebellious Countrey, (where thou and thy Fanatick Brethren <hi>committed a Wonderful and Hor<g ref="char:EOLhyphen"/>rible thing,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 5.30. <hi>Ezek.</hi> 11.2.</note> Murther'd your lawful King) <hi>to deviſe miſchief and give wicked Councel in this City;</hi> Thou didſt pretend a <hi>Spiritual Call,</hi> and I know not what <hi>Revelation,</hi> which
+<pb n="6" facs="tcp:108162:7"/>
+prov'd <hi>a falſe viſion and divination,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 14.14.</note> 
+               <hi>a thing of naught, and th deceit of thy heart,</hi> far ſurpaſſing the frenzy of the more ancient <hi>Enthuſiaſts;</hi> When thou waſt ſoberly admoniſhed to abandon that deluding Spirit (which leads thee and thy Brethren into ſo many exorhitancies) and <hi>ſet thy face to<g ref="char:EOLhyphen"/>ward London,</hi>
+               <note place="margin">
+                  <hi>Ezek.</hi> 21.2.</note> thou didſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt pertinaciouſly contemn that good Councel, and perſiſt in thy ways of Abomination, refuſing to depart out of my City, <hi>Rome;</hi> forgetting thoſe words,<note place="margin">
+                  <hi>Rev.</hi> 18.4.</note> thou haſt ſo often miſinterpreted, <hi>Go out of her my people, leſt thou partake of her ſins, and receive of her puniſh<g ref="char:EOLhyphen"/>ments.</hi> Why could'ſt thou not take heed and more warily underſtand a Text ſo plainly fore warning thee to flye from her,<note place="margin">
+                  <hi>Ezek</hi> 13.3</note> left ſhe ſhould puniſh thee? <hi>Thus ſaith the Lord God, woe unto the fooliſh Prophets that follow their own Spirit and have ſeen nothing.</hi> While thou wert kept in the <hi>Roman Bedlam,</hi> was not the Diſcipline of the place, exactly obſer<g ref="char:EOLhyphen"/>ved to thee,<note place="margin">
+                  <hi>Jer.</hi> 4.18. <hi>Ezek.</hi> 14.10.</note> aswell as to the reſt of thy fellow <hi>Bedlams,</hi> didſt thou want any thing there, but thine own wire? Thus therefore it came to paſſe that <hi>thy way and thy doings pro<g ref="char:EOLhyphen"/>cured theſe things unto thee; it being juſt that thou ſhouldſt bear the puniſhment of thine iniquity.</hi>
+            </p>
+            <p n="2">2. Thou ſayſt my <hi>Prieſts did daily with all the pleaſures thy heart could deſire, tempt thee to be as they were<g ref="char:punc">▪</g>
+               </hi> And were they not very courteous to make thee ſo kind an of<g ref="char:EOLhyphen"/>fer? were they not very patient to treat with thee thus <hi>daily?</hi> Ingrateful <hi>John!</hi> why doſt thou complain of thoſe who us'd thee ſo civilly? and all this, only to make thee <hi>be as they were;</hi> Verily, verily, <hi>John,</hi> thou wert ſhrewdly hurt, doſt thou not uſually (though falſly) charge them to lead lives of eaſe and honor, and canſt thou take it ill, they ſhould offer thee a ſhare with themſelves, <hi>to be as they were.</hi>
+            </p>
+            <p>Moreover I ſay unto thee, thou doſt me and my people very great wrong, by affirming in thy Letter, that my <hi>Prieſts did daily tempt thee to Idolatry;</hi> yet I commend thee <hi>John,</hi> for hating that, which I abominate with all my Soul; Do'ſt thou think I adore a <hi>carved ſtone,</hi> as my <hi>God,</hi> or a <hi>painted canvas,</hi> as my <hi>Saviour?</hi> or is any thing <hi>Idolatry,</hi>
+               <pb n="7" facs="tcp:108162:7"/>
+but the adoring a Creature, as our Creator; and the ma<g ref="char:EOLhyphen"/>king to our ſelves a God of a graven Image? which if I did I were as mad as thou. No, <hi>John,</hi> I worſhip only one God, I acknowledge onely one <hi>Mediator</hi> betwixt God and Man, the God-and-Man JESUS CHRIST; though I believe it both lawful and profitable to deſire the Prayers of his Holy Saints, <hi>who raign with him, and continually aſſiſt at his holy Throne;</hi> and the Charity of his glorious Angels,<note place="margin">
+                  <hi>Heb.</hi> 1.14.</note> 
+               <hi>who be<g ref="char:EOLhyphen"/>hold his face and are ſent forth as miniſtring Spirits for the good of the Elect.</hi>
+            </p>
+            <p>As for <hi>Pictures,</hi> I believe neither any Divinity nor Sancti<g ref="char:EOLhyphen"/>ty to be in them, but I conſider them as fit Inſtruments to help the memory, to recollect the fancy, and ſtir up the af<g ref="char:EOLhyphen"/>fection; giving them ſuch reſpect as thy ſoberer Neigh<g ref="char:EOLhyphen"/>bour <hi>Protestants</hi> do to their <hi>Communion Table,</hi> whom I hope thou art not ſo bold to charge with <hi>Idolatry,</hi> or if thou do'ſt, convert them firſt, and then come again to me. Thou know'ſt 'tis one of the great Commands,<note place="margin">
+                  <hi>Exod.</hi> 20.</note> 
+               <hi>Thou ſhalt not bear falſe witneſs againſt thy Neighbour.</hi>
+               <note place="margin">
+                  <hi>Iſay.</hi> 5.23.</note> And 'tis written, <hi>woe be to you that r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b the juſt man of his juſtice, for as fire devoureth the ſtubble, ſo ſhall the root of theſe men be aſhes.</hi>
+            </p>
+            <p n="3">3. For the power of <hi>remitting Sins,</hi> which thy ſerpen<g ref="char:EOLhyphen"/>tine ſpirit ſo much ſtumbles at, what more plain in Scri<g ref="char:EOLhyphen"/>pture? where our Saviour ſayes expreſly to his diſciples; <hi>Whatever yee ſhall bind on Earth, ſhall be bound in Heaven,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 16.19. <hi>John</hi> 20.23.</note> 
+               <hi>and whatever ye ſhall looſe on earth, ſhall be looſed in heaven;</hi> And again. <hi>Whoſe ſins ye ſhall forgive they are forgiven; and whoſe ye retain, they are retained.</hi> What can be ſaid more clear and plain? doeſt not thou thy ſelf hold many doctrines leſſe evidently in Scripture than this? tell me thy thoughts of this point in thy next Letter. But thou haſt choſen three ſtrange <hi>Mediums</hi> to diſprove this Power.</p>
+            <list>
+               <item>1. <hi>By the time of the coming in of Popes.</hi>
+               </item>
+               <item>2. <hi>By the manner of chooſing Popes.</hi>
+               </item>
+               <item>3. <hi>By the matter of the Precepts of Popes.</hi>
+               </item>
+            </list>
+            <p>
+               <pb n="8" facs="tcp:108162:8"/>Truly <hi>John,</hi> thou deſerv'ſt, for theſe three lines of nonſence, at leaſt three moneths more of the <hi>Pazzarella, Too little Learning I ſee hath made thee mad.</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 26.24</note>
+            </p>
+            <p>The other Points, when thou and my Champion meet, ſhall be at large diſcuſſed.</p>
+            <p n="4">4. Now to thy <hi>Challenge</hi> of mee, to ſend <hi>a hundred of my profoundeſt Jeſuites, or Doctors, to meet thee at any place of Chriſtendom or Turky;</hi> ſince thou art ſo civil to leave the nomination of the place to me, I do, for thy eaſe, appoint <hi>AMSTERDAM,</hi> an indifferent place, to all Profeſ<g ref="char:EOLhyphen"/>ſions, where thou ſhalt have as fair play as I, and any body elſe, as either of us. And ſince thou haſt preſum'd thus proudly <hi>to defie the Armies of the living God,</hi> and, <hi>confiding in thy weavers beam, provokeſt us to Battel,</hi> I promiſe to ſend one onely <hi>Jeſuit, the youngeſt of my Children,</hi> to meet thee there on the 20th. day of the ſixth moneth, vulgarly called <hi>Auguſt;</hi>
+               <note place="margin">1 Sam. 17.</note> Deſpiſe not his little ſtature, for know, <hi>he has ſlain the Lion and the Bear, and the</hi> unbaptized Quaker <hi>ſhall be as one of them.</hi> He ſhall come down to thee <hi>with the light armour of a ſling and a few ſmooth ſtones and ſmite thee on thy fore<g ref="char:EOLhyphen"/>head, and thou ſhalt fall on thy face to the earth;</hi> he ſhall be arm'd with the dreadful weapons of <hi>Excommunication,</hi> and with <hi>Bell,</hi>
+               <note place="margin">1 Cor 5.5.</note> 
+               <hi>Book</hi> and <hi>Candle, deliver thee to the Devil, for the deſtruction of thy</hi> fleſhly <hi>body, that thy Spirit may be ſav'd in the day of the Lord</hi> JESUS. The hearty wiſh of him—</p>
+            <closer>
+               <dateline>Given under the Seal-ring of the <hi>Fiſherman,</hi> at our Pa<g ref="char:EOLhyphen"/>lace of <hi>Monte Cavallo,</hi> 
+                  <date>in the year of our Lord <hi>Jeſus Chriſt,</hi> 1662/1. <hi>Indiction</hi> the 15th <hi>March</hi> the 4th. and in the ſeventh year of our <hi>Pontificat.</hi>
+                  </date>
+               </dateline>
+               <signed>Who, according to the Fleſh, is named, <hi>FABI<g ref="char:V">Ʋ</g>S GHISI<g ref="char:V">Ʋ</g>S,</hi> But in a Spiri<g ref="char:EOLhyphen"/>tual way, <hi>Alexander</hi> the ſeventh <hi>POPE of ROME,</hi> and Servant of the Ser<g ref="char:EOLhyphen"/>vants of God.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108162:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
